@@ -1,5 +1,10 @@
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, This is Vimal!! This is my first java pgm"); 
+        
+        int num1 = 7, num2 = 8, sum;
+        sum = num1 + num2;
+
+        System.out.println("Sum of two numbers: " + sum);
     }
 }
+
